@@ -1,0 +1,22 @@
+{
+    "blogs":[
+        {
+            "id":1,
+            "img": "Blog/bgg3.jpg",
+            "title" : "Front-end Developement - Beginner To Advanced",
+            "desc":  "Learn  Front-end Developement from the beginning.Build real-world applications....",
+            "src" : "Blog/bgg3.jpg"
+            
+        
+          
+            },
+             {
+              "id":2,
+              "img": "Blog/bgg4.jpg",
+            "title" : "Front-end Developement",
+            "desc":  "Learn  Front-end Developement from the beginning.Build real-world applications....",
+            "src": "Blog/bgg4.jpg"
+           
+            }
+    ]
+}
